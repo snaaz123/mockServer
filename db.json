@@ -1,3 +1,76 @@
 {
-    "mockData":[]
+    "Questions":[
+        {   
+            "que":"Which one of the following river flows between Vindhyan and Satpura ranges?",
+            "option1":"Narmada",
+            "option2":"Mahanadi",
+            "option3":"Son",
+            "option4":"Netravati",
+            "category":"Geography",
+            "correctans":"Narmada"
+        },
+         {
+            "que":" The Central Rice Research Station is situated in?",
+            "option1":"Chennai",
+            "option2":"Cuttack",
+            "option3":"Bangalore",
+            "option4":"Quilon",
+            "category":"Geography",
+            "correctans":"Cuttack"
+        },
+         {
+            "que":"Who among the following wrote Sanskrit grammar?",
+            "option1":"Kalidasa",
+            "option2":"Charak",
+            "option3":"Panini",
+            "option4":"Netravati",
+            "category":"Geography",
+            "correctans":"Panini"
+        },
+         {
+            "que":"Which among the following headstreams meets the Ganges in last?",
+            "option1":"Alaknanda",
+            "option2":"Pindar",
+            "option3":"Mandakini",
+            "option4":"Bhagirathi",
+            "category":"Geography",
+            "correctans":"Bhagirathi"
+        },
+         {
+            "que":"The metal whose salts are sensitive to light is?",
+            "option1":"Zinc",
+            "option2":"Silver",
+            "option3":"Copper",
+            "option4":"Aluminum",
+            "category":"Geography",
+            "correctans":"Silver"
+        },
+         {
+            "que":"River Luni originates near Pushkar and drains into which one of the following?",
+            "option1":"Rann of Kachchh",
+            "option2":"Arabian Sea",
+            "option3":"Gulf of Cambay",
+            "option4":"Lake Sambhar",
+            "category":"Geography",
+            "correctans":"Rann of Kachchh"
+        },
+         {
+            "que":"Which one of the following rivers originates in Brahmagiri range of Western Ghats?",
+            "option1":"Pennar",
+            "option2":"Cauvery",
+            "option3":"Krishna",
+            "option4":"Tapti",
+            "category":"Geography",
+            "correctans":"Cauvery"
+        },
+         {
+            "que":"The country that has the highest in Barley Production?",
+            "option1":"China",
+            "option2":"India",
+            "option3":"Russia",
+            "option4":" France",
+            "category":"Geography",
+            "correctans":"Russia"
+        }
+    ]
 }
